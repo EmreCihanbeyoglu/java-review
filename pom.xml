@@ -10,5 +10,6 @@
   <modules>
     <module>functional-programming</module>
       <module>lombok</module>
+      <module>lambda</module>
   </modules>
 </project>
