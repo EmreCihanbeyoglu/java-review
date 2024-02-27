@@ -1,5 +1,6 @@
 .idea/
 target/
+.idea/dbnavigator.xml
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
