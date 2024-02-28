@@ -11,5 +11,6 @@
     <module>functional-programming</module>
       <module>lombok</module>
       <module>lambda</module>
+      <module>sorting</module>
   </modules>
 </project>
