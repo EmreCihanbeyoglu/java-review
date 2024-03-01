@@ -24,5 +24,11 @@ public class Reducing {
         Optional<Integer> maxOptional = myList.stream()
                 .reduce(Integer::max);
         maxOptional.ifPresent(System.out::println);
+
+        System.out.println("print count of the elements");
+        int count = myList.stream()
+                .map(x -> 1)
+                .reduce(0, Integer::sum);
+        System.out.println(count);
     }
 }
