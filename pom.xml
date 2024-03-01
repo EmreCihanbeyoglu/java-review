@@ -12,5 +12,6 @@
       <module>lombok</module>
       <module>lambda</module>
       <module>sorting</module>
+      <module>streams</module>
   </modules>
 </project>
